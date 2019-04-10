@@ -1,4 +1,3 @@
-node_modules
 logs
 *.log
 npm-debug.log*
@@ -10,3 +9,4 @@ pids
 *.pid.lock
 lib-cov
 *.env.development
+node_modules

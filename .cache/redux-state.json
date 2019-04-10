@@ -1094,12 +1094,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-10T21:20:13.901Z",
+      "buildTime": "2019-04-10T23:15:25.940Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "36b8642c2232a94fd6c79f5f91372867",
+        "contentDigest": "ea00f82ad4f8a232ccd61043c607873a",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1109,7 +1109,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "c9fed659b002d2975ce0e55513c61734",
+        "contentDigest": "4af19576e85af89ec4dc5e494da40b72",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1121,7 +1121,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-04-09T23:06:45.175Z",
-      "accessTime": "2019-04-10T21:20:18.251Z",
+      "accessTime": "2019-04-10T23:15:29.428Z",
       "changeTime": "2019-04-09T23:06:45.175Z",
       "birthTime": "2019-04-01T21:02:12.803Z",
       "root": "/",
@@ -1139,11 +1139,11 @@
       "blksize": 4194304,
       "ino": 8591680890,
       "blocks": 0,
-      "atimeMs": 1554931218250.7605,
+      "atimeMs": 1554938129428.379,
       "mtimeMs": 1554851205174.624,
       "ctimeMs": 1554851205174.624,
       "birthtimeMs": 1554152532803.0786,
-      "atime": "2019-04-10T21:20:18.251Z",
+      "atime": "2019-04-10T23:15:29.428Z",
       "mtime": "2019-04-09T23:06:45.175Z",
       "ctime": "2019-04-09T23:06:45.175Z",
       "birthtime": "2019-04-01T21:02:12.803Z"
@@ -2533,7 +2533,7 @@
       "pages": [
         "/dev-404-page/"
       ],
-      "isInBootstrap": false
+      "isInBootstrap": true
     },
     "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js": {
       "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
@@ -2542,7 +2542,7 @@
         "/404/",
         "/404.html"
       ],
-      "isInBootstrap": false
+      "isInBootstrap": true
     },
     "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/about.js": {
       "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/about.js",
@@ -2550,7 +2550,7 @@
       "pages": [
         "/about/"
       ],
-      "isInBootstrap": false
+      "isInBootstrap": true
     },
     "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/index.js": {
       "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/index.js",
@@ -2558,7 +2558,7 @@
       "pages": [
         "/"
       ],
-      "isInBootstrap": false
+      "isInBootstrap": true
     },
     "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js": {
       "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js",
@@ -2566,7 +2566,7 @@
       "pages": [
         "/photos/"
       ],
-      "isInBootstrap": false
+      "isInBootstrap": true
     }
   },
   "staticQueryComponents": {
