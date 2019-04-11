@@ -1,23 +1,13 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
-      "jsonName": "dev-404-page-5f9",
-      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
-      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/.cache/dev-404-page.js",
-      "componentChunkName": "component---cache-dev-404-page-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": null,
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0a0667c7fff69636c2fcd8024bb28e86",
-        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
         "owner": "internal-data-bridge"
       }
     },
@@ -884,7 +874,7 @@
       "resolve": "/Users/pierreraffalli/Desktop/react/refacto site photo",
       "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
       "name": "default-site-plugin",
-      "version": "1e1686c865986648bc834e05ef261ac0",
+      "version": "af8c2dabae72f5ebb4a013fa301e3044",
       "pluginOptions": {
         "plugins": []
       },
@@ -976,7 +966,7 @@
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "99b52a58cca52f69772a5d3dda3a82d5",
+        "contentDigest": "28ee0d9860eb8439596a5418d1c468e4",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -1090,16 +1080,14 @@
         "description": "Welcome to my website exposing analog shots done with Canon A1 / Canon AF1",
         "author": "P.R"
       },
-      "port": "8000",
-      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-10T23:15:25.940Z",
+      "buildTime": "2019-04-10T23:45:47.977Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "ea00f82ad4f8a232ccd61043c607873a",
+        "contentDigest": "8d34e0b7b18fc52155e948f5a44d6cde",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1109,7 +1097,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "4af19576e85af89ec4dc5e494da40b72",
+        "contentDigest": "0a063f7c34bde562d824c9fc0bd33519",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1121,7 +1109,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-04-09T23:06:45.175Z",
-      "accessTime": "2019-04-10T23:15:29.428Z",
+      "accessTime": "2019-04-10T23:45:50.320Z",
       "changeTime": "2019-04-09T23:06:45.175Z",
       "birthTime": "2019-04-01T21:02:12.803Z",
       "root": "/",
@@ -1139,11 +1127,11 @@
       "blksize": 4194304,
       "ino": 8591680890,
       "blocks": 0,
-      "atimeMs": 1554938129428.379,
+      "atimeMs": 1554939950319.9841,
       "mtimeMs": 1554851205174.624,
       "ctimeMs": 1554851205174.624,
       "birthtimeMs": 1554152532803.0786,
-      "atime": "2019-04-10T23:15:29.428Z",
+      "atime": "2019-04-10T23:45:50.320Z",
       "mtime": "2019-04-09T23:06:45.175Z",
       "ctime": "2019-04-09T23:06:45.175Z",
       "birthtime": "2019-04-01T21:02:12.803Z"
@@ -1168,7 +1156,7 @@
       "size": 21212,
       "prettySize": "21.2 kB",
       "modifiedTime": "2019-04-01T21:02:12.805Z",
-      "accessTime": "2019-04-09T21:14:49.343Z",
+      "accessTime": "2019-04-10T23:45:50.320Z",
       "changeTime": "2019-04-01T21:02:12.805Z",
       "birthTime": "2019-04-01T21:02:12.804Z",
       "root": "/",
@@ -1186,24 +1174,14 @@
       "blksize": 4194304,
       "ino": 8591680892,
       "blocks": 48,
-      "atimeMs": 1554844489342.968,
+      "atimeMs": 1554939950320.218,
       "mtimeMs": 1554152532804.7007,
       "ctimeMs": 1554152532804.7007,
       "birthtimeMs": 1554152532804.4878,
-      "atime": "2019-04-09T21:14:49.343Z",
+      "atime": "2019-04-10T23:45:50.320Z",
       "mtime": "2019-04-01T21:02:12.805Z",
       "ctime": "2019-04-01T21:02:12.805Z",
       "birthtime": "2019-04-01T21:02:12.804Z"
-    },
-    "d554ad99-d1d4-5455-8248-b9de13f9fcb4": {
-      "id": "d554ad99-d1d4-5455-8248-b9de13f9fcb4",
-      "children": [],
-      "parent": "a84e42e4-094a-51d0-8769-16283b599b79",
-      "internal": {
-        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
     },
     "23360880-0c1b-51d6-b43f-5116c70256b3": {
       "id": "23360880-0c1b-51d6-b43f-5116c70256b3",
@@ -1225,7 +1203,7 @@
       "size": 14511,
       "prettySize": "14.5 kB",
       "modifiedTime": "2019-04-08T21:32:50.862Z",
-      "accessTime": "2019-04-09T21:18:54.987Z",
+      "accessTime": "2019-04-10T23:45:50.320Z",
       "changeTime": "2019-04-08T21:32:50.862Z",
       "birthTime": "2019-04-08T21:32:41.150Z",
       "root": "/",
@@ -1243,14 +1221,24 @@
       "blksize": 4194304,
       "ino": 8591769344,
       "blocks": 32,
-      "atimeMs": 1554844734987.1616,
+      "atimeMs": 1554939950320.2256,
       "mtimeMs": 1554759170862,
       "ctimeMs": 1554759170862.1538,
       "birthtimeMs": 1554759161149.516,
-      "atime": "2019-04-09T21:18:54.987Z",
+      "atime": "2019-04-10T23:45:50.320Z",
       "mtime": "2019-04-08T21:32:50.862Z",
       "ctime": "2019-04-08T21:32:50.862Z",
       "birthtime": "2019-04-08T21:32:41.150Z"
+    },
+    "d554ad99-d1d4-5455-8248-b9de13f9fcb4": {
+      "id": "d554ad99-d1d4-5455-8248-b9de13f9fcb4",
+      "children": [],
+      "parent": "a84e42e4-094a-51d0-8769-16283b599b79",
+      "internal": {
+        "contentDigest": "4a9773549091c227cd2eb82ccd9c5e3a",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     },
     "2e92b7f4-4372-5f7f-8ea2-4124f725d00e": {
       "id": "2e92b7f4-4372-5f7f-8ea2-4124f725d00e",
@@ -1282,7 +1270,7 @@
       "size": 167273,
       "prettySize": "167 kB",
       "modifiedTime": "2019-04-01T21:02:12.804Z",
-      "accessTime": "2019-04-09T21:14:43.160Z",
+      "accessTime": "2019-04-10T23:45:50.320Z",
       "changeTime": "2019-04-01T21:02:12.804Z",
       "birthTime": "2019-04-01T21:02:12.803Z",
       "root": "/",
@@ -1300,11 +1288,11 @@
       "blksize": 4194304,
       "ino": 8591680891,
       "blocks": 328,
-      "atimeMs": 1554844483160.1538,
+      "atimeMs": 1554939950320.2058,
       "mtimeMs": 1554152532804.1143,
       "ctimeMs": 1554152532804.1143,
       "birthtimeMs": 1554152532803.176,
-      "atime": "2019-04-09T21:14:43.160Z",
+      "atime": "2019-04-10T23:45:50.320Z",
       "mtime": "2019-04-01T21:02:12.804Z",
       "ctime": "2019-04-01T21:02:12.804Z",
       "birthtime": "2019-04-01T21:02:12.803Z"
@@ -1315,6 +1303,120 @@
       "parent": "c6aa9e93-430c-502e-ad3e-7f0e407c7ac5",
       "internal": {
         "contentDigest": "6d91c86c0fde632ba4cd01062fd9ccfa",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "f46225f1-c3f2-56be-89c0-111d23002ca8": {
+      "id": "f46225f1-c3f2-56be-89c0-111d23002ca8",
+      "children": [
+        "d9ef0d3f-fc38-5ced-a7ac-38b0a8a33e3e"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "be0f92b906acf97c89c21789505b94d9",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/a1_3.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images/a1_3.png",
+      "relativePath": "a1_3.png",
+      "extension": "png",
+      "size": 1199294,
+      "prettySize": "1.2 MB",
+      "modifiedTime": "2019-04-09T23:06:45.182Z",
+      "accessTime": "2019-04-10T23:45:50.320Z",
+      "changeTime": "2019-04-09T23:06:45.183Z",
+      "birthTime": "2019-04-09T23:06:45.175Z",
+      "root": "/",
+      "dir": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images",
+      "base": "a1_3.png",
+      "ext": ".png",
+      "name": "a1_3",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591833082,
+      "blocks": 2344,
+      "atimeMs": 1554939950320.2048,
+      "mtimeMs": 1554851205182.4314,
+      "ctimeMs": 1554851205182.8442,
+      "birthtimeMs": 1554851205174.6055,
+      "atime": "2019-04-10T23:45:50.320Z",
+      "mtime": "2019-04-09T23:06:45.182Z",
+      "ctime": "2019-04-09T23:06:45.183Z",
+      "birthtime": "2019-04-09T23:06:45.175Z"
+    },
+    "d9ef0d3f-fc38-5ced-a7ac-38b0a8a33e3e": {
+      "id": "d9ef0d3f-fc38-5ced-a7ac-38b0a8a33e3e",
+      "children": [],
+      "parent": "f46225f1-c3f2-56be-89c0-111d23002ca8",
+      "internal": {
+        "contentDigest": "be0f92b906acf97c89c21789505b94d9",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "54c67477-ca72-5a28-a223-10dc831da2ef": {
+      "id": "54c67477-ca72-5a28-a223-10dc831da2ef",
+      "children": [
+        "bd0a81a3-c735-5c47-ac4e-ffaea87917c9"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "5dac2a19fb25ebdcde1c8c138b019722",
+        "type": "File",
+        "mediaType": "image/png",
+        "description": "File \"src/images/a1_2.png\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images/a1_2.png",
+      "relativePath": "a1_2.png",
+      "extension": "png",
+      "size": 2243807,
+      "prettySize": "2.24 MB",
+      "modifiedTime": "2019-04-09T22:01:05.996Z",
+      "accessTime": "2019-04-10T23:45:50.320Z",
+      "changeTime": "2019-04-09T22:01:05.996Z",
+      "birthTime": "2019-04-09T22:01:05.986Z",
+      "root": "/",
+      "dir": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images",
+      "base": "a1_2.png",
+      "ext": ".png",
+      "name": "a1_2",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591830286,
+      "blocks": 4384,
+      "atimeMs": 1554939950320.196,
+      "mtimeMs": 1554847265995.68,
+      "ctimeMs": 1554847265996.4158,
+      "birthtimeMs": 1554847265985.8958,
+      "atime": "2019-04-10T23:45:50.320Z",
+      "mtime": "2019-04-09T22:01:05.996Z",
+      "ctime": "2019-04-09T22:01:05.996Z",
+      "birthtime": "2019-04-09T22:01:05.986Z"
+    },
+    "bd0a81a3-c735-5c47-ac4e-ffaea87917c9": {
+      "id": "bd0a81a3-c735-5c47-ac4e-ffaea87917c9",
+      "children": [],
+      "parent": "54c67477-ca72-5a28-a223-10dc831da2ef",
+      "internal": {
+        "contentDigest": "5dac2a19fb25ebdcde1c8c138b019722",
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
@@ -1339,7 +1441,7 @@
       "size": 4027801,
       "prettySize": "4.03 MB",
       "modifiedTime": "2019-04-07T21:36:28.294Z",
-      "accessTime": "2019-04-09T21:52:29.447Z",
+      "accessTime": "2019-04-10T23:45:50.320Z",
       "changeTime": "2019-04-07T21:36:28.295Z",
       "birthTime": "2019-04-07T21:36:28.271Z",
       "root": "/",
@@ -1357,11 +1459,11 @@
       "blksize": 4194304,
       "ino": 8591758744,
       "blocks": 7872,
-      "atimeMs": 1554846749446.6125,
+      "atimeMs": 1554939950320.1934,
       "mtimeMs": 1554672988294.3184,
       "ctimeMs": 1554672988295.0127,
       "birthtimeMs": 1554672988270.9788,
-      "atime": "2019-04-09T21:52:29.447Z",
+      "atime": "2019-04-10T23:45:50.320Z",
       "mtime": "2019-04-07T21:36:28.294Z",
       "ctime": "2019-04-07T21:36:28.295Z",
       "birthtime": "2019-04-07T21:36:28.271Z"
@@ -2255,120 +2357,6 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "54c67477-ca72-5a28-a223-10dc831da2ef": {
-      "id": "54c67477-ca72-5a28-a223-10dc831da2ef",
-      "children": [
-        "bd0a81a3-c735-5c47-ac4e-ffaea87917c9"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "5dac2a19fb25ebdcde1c8c138b019722",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/a1_2.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images/a1_2.png",
-      "relativePath": "a1_2.png",
-      "extension": "png",
-      "size": 2243807,
-      "prettySize": "2.24 MB",
-      "modifiedTime": "2019-04-09T22:01:05.996Z",
-      "accessTime": "2019-04-09T22:01:06.019Z",
-      "changeTime": "2019-04-09T22:01:05.996Z",
-      "birthTime": "2019-04-09T22:01:05.986Z",
-      "root": "/",
-      "dir": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images",
-      "base": "a1_2.png",
-      "ext": ".png",
-      "name": "a1_2",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8591830286,
-      "blocks": 4384,
-      "atimeMs": 1554847266018.812,
-      "mtimeMs": 1554847265995.68,
-      "ctimeMs": 1554847265996.4158,
-      "birthtimeMs": 1554847265985.8958,
-      "atime": "2019-04-09T22:01:06.019Z",
-      "mtime": "2019-04-09T22:01:05.996Z",
-      "ctime": "2019-04-09T22:01:05.996Z",
-      "birthtime": "2019-04-09T22:01:05.986Z"
-    },
-    "bd0a81a3-c735-5c47-ac4e-ffaea87917c9": {
-      "id": "bd0a81a3-c735-5c47-ac4e-ffaea87917c9",
-      "children": [],
-      "parent": "54c67477-ca72-5a28-a223-10dc831da2ef",
-      "internal": {
-        "contentDigest": "5dac2a19fb25ebdcde1c8c138b019722",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
-    "f46225f1-c3f2-56be-89c0-111d23002ca8": {
-      "id": "f46225f1-c3f2-56be-89c0-111d23002ca8",
-      "children": [
-        "d9ef0d3f-fc38-5ced-a7ac-38b0a8a33e3e"
-      ],
-      "parent": null,
-      "internal": {
-        "contentDigest": "be0f92b906acf97c89c21789505b94d9",
-        "type": "File",
-        "mediaType": "image/png",
-        "description": "File \"src/images/a1_3.png\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "images",
-      "absolutePath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images/a1_3.png",
-      "relativePath": "a1_3.png",
-      "extension": "png",
-      "size": 1199294,
-      "prettySize": "1.2 MB",
-      "modifiedTime": "2019-04-09T23:06:45.182Z",
-      "accessTime": "2019-04-09T23:06:45.212Z",
-      "changeTime": "2019-04-09T23:06:45.183Z",
-      "birthTime": "2019-04-09T23:06:45.175Z",
-      "root": "/",
-      "dir": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images",
-      "base": "a1_3.png",
-      "ext": ".png",
-      "name": "a1_3",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 8591833082,
-      "blocks": 2344,
-      "atimeMs": 1554851205211.7278,
-      "mtimeMs": 1554851205182.4314,
-      "ctimeMs": 1554851205182.8442,
-      "birthtimeMs": 1554851205174.6055,
-      "atime": "2019-04-09T23:06:45.212Z",
-      "mtime": "2019-04-09T23:06:45.182Z",
-      "ctime": "2019-04-09T23:06:45.183Z",
-      "birthtime": "2019-04-09T23:06:45.175Z"
-    },
-    "d9ef0d3f-fc38-5ced-a7ac-38b0a8a33e3e": {
-      "id": "d9ef0d3f-fc38-5ced-a7ac-38b0a8a33e3e",
-      "children": [],
-      "parent": "f46225f1-c3f2-56be-89c0-111d23002ca8",
-      "internal": {
-        "contentDigest": "be0f92b906acf97c89c21789505b94d9",
-        "type": "ImageSharp",
-        "owner": "gatsby-transformer-sharp"
-      }
-    },
     "SitePage /404/": {
       "jsonName": "404-22d",
       "internalComponentName": "Component404",
@@ -2481,7 +2469,7 @@
         "uwmxdtwvcb8n-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCvSMjwpQLKyZkBRnCo8K3fsK7Z2jDqsKOw63DisKdKsOkw5bCgMKdIBPDmgcFw7g2MsKNw7fCn8KJNsK5wpzCtjXCmhTClsOhZMKQYi1mw4nCn3oSJWEAwq0kAsOSKQ"
       }
     },
-    "PLUGINS_HASH": "177695a2829540dc6fed768a0c0529b3"
+    "PLUGINS_HASH": "07848c907268a57dc908994582d9e7ea"
   },
   "componentDataDependencies": {
     "nodes": {
@@ -2515,26 +2503,16 @@
     }
   },
   "jsonDataPaths": {
+    "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "sq--src-components-layout-js": 755544856,
     "sq--src-components-seo-js": 2417117884,
-    "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "index": "900/path---index-6a9-glmEqNhz7jQ6kr5e3eIC83WBtI",
-    "page-2-fbc": "726/path---page-2-fbc-5a8-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "sq--src-components-image-js": 628580114,
-    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "photos-a58": "586/path---photos-a-58-0c4-yvzI4euR8PxW41yMEXUUE8a2uk",
+    "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "sq--src-components-image-js": 628580114,
+    "index": "900/path---index-6a9-glmEqNhz7jQ6kr5e3eIC83WBtI",
     "about-f34": "702/path---about-f-34-4c2-D9JSc7n7rWtBZepVtzNHMPptG5A"
   },
   "components": {
-    "/Users/pierreraffalli/Desktop/react/refacto site photo/.cache/dev-404-page.js": {
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/.cache/dev-404-page.js",
-      "query": "",
-      "pages": [
-        "/dev-404-page/"
-      ],
-      "isInBootstrap": true
-    },
     "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js": {
       "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
       "query": "",
@@ -2570,14 +2548,6 @@
     }
   },
   "staticQueryComponents": {
-    "sq--src-components-seo-js": {
-      "name": "usersPierreraffalliDesktopReactRefactoSitePhotoSrcComponentsSeoJs2417117884",
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/components/seo.js",
-      "id": "sq--src-components-seo-js",
-      "jsonName": "sq--src-components-seo-js",
-      "query": "query usersPierreraffalliDesktopReactRefactoSitePhotoSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
-      "hash": 2417117884
-    },
     "sq--src-components-image-js": {
       "name": "usersPierreraffalliDesktopReactRefactoSitePhotoSrcComponentsImageJs628580114",
       "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/components/image.js",
@@ -2593,6 +2563,14 @@
       "jsonName": "sq--src-components-layout-js",
       "query": "query SiteTitleQuery {\n  site {\n    siteMetadata {\n      title\n    }\n  }\n}\n",
       "hash": 755544856
+    },
+    "sq--src-components-seo-js": {
+      "name": "usersPierreraffalliDesktopReactRefactoSitePhotoSrcComponentsSeoJs2417117884",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/components/seo.js",
+      "id": "sq--src-components-seo-js",
+      "jsonName": "sq--src-components-seo-js",
+      "query": "query usersPierreraffalliDesktopReactRefactoSitePhotoSrcComponentsSeoJs2417117884 {\n  site {\n    siteMetadata {\n      title\n      description\n      author\n    }\n  }\n}\n",
+      "hash": 2417117884
     }
   }
 }
