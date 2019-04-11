@@ -13,7 +13,7 @@ export default function photos({ data }) {
       {data.photos.edges.map(({node})=> {
         return (
             <div key={node.id} style={{padding:'1rem', margin:'1rem 0'}}>
-            <img src={node.file.url} />
+            <Img fluid={node.image.fluid} />
             <h3>{node.title}</h3>
           </div>
         )
@@ -24,15 +24,15 @@ export default function photos({ data }) {
 
 export const query = graphql`
 {
-  photos: allContentfulAsset {
+  photos:allContentfulPhoto {
     edges {
       node {
         id
         title
-        file {
-          url 
-          fileName
-          contentType
+        image {
+          fluid(maxWidth:1080) {
+            ...GatsbyContentfulFluid
+          }
         }
       }
     }
