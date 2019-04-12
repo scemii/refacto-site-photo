@@ -1,6 +1,6 @@
 import React from "react";
 import BackgroundImage from "gatsby-background-image";
-import { isAbsolute } from "path";
+
 
 export default function BackgroundSection({
   img,
