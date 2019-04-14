@@ -16,7 +16,7 @@ export default function contact() {
                       <label htmlFor="name">
                           Name
                       </label>
-                      <input type="text" className="form-control" name="name" id="name" placeholder="John Smith">   
+                      <input type="text" className="form-control" name="name" id="name" placeholder="John Doe">   
                       </input>
                   </div>
                   <div className="form-group">

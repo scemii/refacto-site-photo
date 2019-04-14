@@ -25,16 +25,16 @@ default-background {
 
 .row{
   align-content:center;
-  margin: auto;
-  display: flex;
+
   width: 100%;
+  position: relative;
 }
 
 .card {
   align-content:center;
   margin: auto;
-  display: flex;
   width: 100%;
+  
 }
 
 article,

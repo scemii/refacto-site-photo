@@ -27,7 +27,7 @@ const photos = ({data}) => (
             <p className="card-text">
               Snaps of Beaugrenelle disctrict - Paris 15 in winter 2018.
             </p>
-            <a href="/sydney" className="btn btn-light">
+            <a href="/grenelle" className="btn btn-light">
               See pictures..
             </a>
           </div>
@@ -39,7 +39,7 @@ const photos = ({data}) => (
             <p className="card-text">
               Shots of random consoles from my youth done with macro lens: 70-210.
             </p>
-            <a href="/sydney" className="btn btn-light">
+            <a href="/consoles" className="btn btn-light">
               See pictures..
             </a>
           </div>

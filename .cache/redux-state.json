@@ -1098,12 +1098,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-14T19:24:46.808Z",
+      "buildTime": "2019-04-14T23:10:45.346Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b6afb86efc5567857b48cf99605012ca",
+        "contentDigest": "56f5defae8edd1d99ff95ac1358aca56",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1113,7 +1113,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "389473bbbf5609ea2072f248cc434f9a",
+        "contentDigest": "d494430ab56b839d9d462b06d8ea1500",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1122,11 +1122,11 @@
       "absolutePath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images",
       "relativePath": "",
       "extension": "",
-      "size": 256,
-      "prettySize": "256 B",
-      "modifiedTime": "2019-04-09T23:06:45.175Z",
-      "accessTime": "2019-04-14T19:24:51.227Z",
-      "changeTime": "2019-04-09T23:06:45.175Z",
+      "size": 384,
+      "prettySize": "384 B",
+      "modifiedTime": "2019-04-14T20:17:31.633Z",
+      "accessTime": "2019-04-14T23:10:47.704Z",
+      "changeTime": "2019-04-14T20:17:31.633Z",
       "birthTime": "2019-04-01T21:02:12.803Z",
       "root": "/",
       "dir": "/Users/pierreraffalli/Desktop/react/refacto site photo/src",
@@ -1136,20 +1136,20 @@
       "relativeDirectory": "..",
       "dev": 16777220,
       "mode": 16877,
-      "nlink": 8,
+      "nlink": 12,
       "uid": 501,
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
       "ino": 8591680890,
       "blocks": 0,
-      "atimeMs": 1555269891227.4504,
-      "mtimeMs": 1554851205174.624,
-      "ctimeMs": 1554851205174.624,
+      "atimeMs": 1555283447703.8657,
+      "mtimeMs": 1555273051633.2207,
+      "ctimeMs": 1555273051633.2207,
       "birthtimeMs": 1554152532803.0786,
-      "atime": "2019-04-14T19:24:51.227Z",
-      "mtime": "2019-04-09T23:06:45.175Z",
-      "ctime": "2019-04-09T23:06:45.175Z",
+      "atime": "2019-04-14T23:10:47.704Z",
+      "mtime": "2019-04-14T20:17:31.633Z",
+      "ctime": "2019-04-14T20:17:31.633Z",
       "birthtime": "2019-04-01T21:02:12.803Z"
     },
     "a84e42e4-094a-51d0-8769-16283b599b79": {
@@ -2809,153 +2809,6 @@
         "owner": "gatsby-source-contentful"
       }
     },
-    "SitePage /404/": {
-      "jsonName": "404-22d",
-      "internalComponentName": "Component404",
-      "path": "/404/",
-      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
-      "id": "SitePage /404/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "61fe5f25b63faefdd23ffd20072bcd99",
-        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /about/": {
-      "jsonName": "about-f34",
-      "internalComponentName": "ComponentAbout",
-      "path": "/about/",
-      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/about.js",
-      "componentChunkName": "component---src-pages-about-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/about.js",
-      "id": "SitePage /about/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "cba4f4649af5fc992dd73299c67f54eb",
-        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /contact/": {
-      "jsonName": "contact-26a",
-      "internalComponentName": "ComponentContact",
-      "path": "/contact/",
-      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/contact.js",
-      "componentChunkName": "component---src-pages-contact-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/contact.js",
-      "id": "SitePage /contact/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "68c974e1201335065699091cfc3dde1a",
-        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /": {
-      "jsonName": "index",
-      "internalComponentName": "ComponentIndex",
-      "path": "/",
-      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/index.js",
-      "componentChunkName": "component---src-pages-index-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/index.js",
-      "id": "SitePage /",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "da98d04b4afb487fba75af19cdebf13a",
-        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /photos/": {
-      "jsonName": "photos-a58",
-      "internalComponentName": "ComponentPhotos",
-      "path": "/photos/",
-      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js",
-      "componentChunkName": "component---src-pages-photos-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js",
-      "id": "SitePage /photos/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "4d9798ca7c272df3ce599c1ff81163c2",
-        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /404.html": {
-      "jsonName": "404-html-516",
-      "internalComponentName": "Component404Html",
-      "path": "/404.html",
-      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
-      "componentChunkName": "component---src-pages-404-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
-      "id": "SitePage /404.html",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0fa69ba2dee745c5539c01568c7ffbfa",
-        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /sydney/": {
-      "jsonName": "sydney-d1e",
-      "internalComponentName": "ComponentSydney",
-      "path": "/sydney/",
-      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/sydney.js",
-      "componentChunkName": "component---src-pages-sydney-js",
-      "isCreatedByStatefulCreatePages": true,
-      "context": {},
-      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/sydney.js",
-      "id": "SitePage /sydney/",
-      "parent": null,
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "b823eaa012e04a53b6a99771a9746986",
-        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
-        "owner": "internal-data-bridge"
-      }
-    },
     "e1e948a9-12c5-53e1-a6c4-77d5ea4ff6f8": {
       "id": "e1e948a9-12c5-53e1-a6c4-77d5ea4ff6f8",
       "children": [
@@ -3183,12 +3036,366 @@
         "type": "ImageSharp",
         "owner": "gatsby-transformer-sharp"
       }
+    },
+    "e0dbc58c-1c3b-595e-8ef1-adccea47013c": {
+      "id": "e0dbc58c-1c3b-595e-8ef1-adccea47013c",
+      "parent": null,
+      "children": [],
+      "name": "Sydney",
+      "displayField": "title",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "58cf98ce8c8e740e3dbcfa105881cbfa",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "a73f7a01-310d-54fa-88c2-f0a18fbeabaa": {
+      "title": "Sydney Opera 1",
+      "image___NODE": "8eae45e2-70f7-508d-9b3a-54ed486419bd",
+      "id": "a73f7a01-310d-54fa-88c2-f0a18fbeabaa",
+      "contentful_id": "7GFPkzZERG0KSy3gEppkTv",
+      "createdAt": "2019-04-14T22:59:12.799Z",
+      "updatedAt": "2019-04-14T22:59:12.799Z",
+      "parent": "Sydney",
+      "children": [],
+      "internal": {
+        "type": "ContentfulSydney",
+        "contentDigest": "5fe08578a57517fb2c50675c40a171f3",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "e3bd9995-19db-5ac8-b73f-20e5cd439a75": {
+      "id": "e3bd9995-19db-5ac8-b73f-20e5cd439a75",
+      "parent": null,
+      "children": [],
+      "name": "Consoles",
+      "displayField": "title",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "1744fa4d1a347b4d81f07e94d543e2c2",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "fe9a787c-6b5b-590b-94e2-ebb8089e69bc": {
+      "title": "N64_1",
+      "image___NODE": "f292b187-eea5-53ea-b5d0-ecffc5f9d05e",
+      "id": "fe9a787c-6b5b-590b-94e2-ebb8089e69bc",
+      "contentful_id": "51HYI8bq2wg0oIxOSG6E6S",
+      "createdAt": "2019-04-14T23:02:26.097Z",
+      "updatedAt": "2019-04-14T23:02:26.097Z",
+      "parent": "Consoles",
+      "children": [],
+      "internal": {
+        "type": "ContentfulConsoles",
+        "contentDigest": "092f0176b40aab27503f18a29e113c93",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "f292b187-eea5-53ea-b5d0-ecffc5f9d05e": {
+      "contentful_id": "2RnK13u71Y3HCg8ghUMQMI",
+      "id": "f292b187-eea5-53ea-b5d0-ecffc5f9d05e",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/om13iw9p64w7/2RnK13u71Y3HCg8ghUMQMI/630399fcf4264dfa101800a1f6287f15/n64.jpg",
+        "details": {
+          "size": 123786,
+          "image": {
+            "width": 2160,
+            "height": 1528
+          }
+        },
+        "fileName": "n64.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "N64_1",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "b89589ec87455d8ba6832f00730b843c",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "8eae45e2-70f7-508d-9b3a-54ed486419bd": {
+      "contentful_id": "1sFJSnU7sQeHa09Fb63OLy",
+      "id": "8eae45e2-70f7-508d-9b3a-54ed486419bd",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/om13iw9p64w7/1sFJSnU7sQeHa09Fb63OLy/ebbdaa60ba6e458aaaa2de21eb651098/sydney.jpg",
+        "details": {
+          "size": 197544,
+          "image": {
+            "width": 2160,
+            "height": 1528
+          }
+        },
+        "fileName": "sydney.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Sydney Opera 1",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "6de9bfe1e4dd02c9365542bebfbce3f9",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "6c51b65f-ffef-51a0-af4f-966e39628b21": {
+      "id": "6c51b65f-ffef-51a0-af4f-966e39628b21",
+      "parent": null,
+      "children": [],
+      "name": "Grenelle",
+      "displayField": "title",
+      "description": "",
+      "internal": {
+        "type": "ContentfulContentType",
+        "contentDigest": "74b3dacf22fc7719897b7c8201d43252",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "93469f15-f193-5d64-8fc7-8accb43a527c": {
+      "title": "Cheminée_grenelle_1",
+      "image___NODE": "0176345c-6e0e-53df-ae03-910ce1dd37bc",
+      "id": "93469f15-f193-5d64-8fc7-8accb43a527c",
+      "contentful_id": "65qtpLzWRL5S46vXjVJ3Go",
+      "createdAt": "2019-04-14T23:09:20.360Z",
+      "updatedAt": "2019-04-14T23:09:20.360Z",
+      "parent": "Grenelle",
+      "children": [],
+      "internal": {
+        "type": "ContentfulGrenelle",
+        "contentDigest": "1c551efad38b94aed0e26aaab4c0e64f",
+        "owner": "gatsby-source-contentful"
+      },
+      "node_locale": "en-US"
+    },
+    "0176345c-6e0e-53df-ae03-910ce1dd37bc": {
+      "contentful_id": "5FmKZyX9d8HF4drTjDqnZB",
+      "id": "0176345c-6e0e-53df-ae03-910ce1dd37bc",
+      "parent": null,
+      "children": [],
+      "file": {
+        "url": "//images.ctfassets.net/om13iw9p64w7/5FmKZyX9d8HF4drTjDqnZB/005839a624692aeb3bae690d57127157/tour.jpg",
+        "details": {
+          "size": 136819,
+          "image": {
+            "width": 2160,
+            "height": 1527
+          }
+        },
+        "fileName": "tour.jpg",
+        "contentType": "image/jpeg"
+      },
+      "title": "Tour_1",
+      "description": "",
+      "node_locale": "en-US",
+      "internal": {
+        "type": "ContentfulAsset",
+        "contentDigest": "bf1241c5fc764c06b1e738eb5f7c162d",
+        "owner": "gatsby-source-contentful"
+      }
+    },
+    "SitePage /404/": {
+      "jsonName": "404-22d",
+      "internalComponentName": "Component404",
+      "path": "/404/",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
+      "id": "SitePage /404/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "61fe5f25b63faefdd23ffd20072bcd99",
+        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /about/": {
+      "jsonName": "about-f34",
+      "internalComponentName": "ComponentAbout",
+      "path": "/about/",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/about.js",
+      "componentChunkName": "component---src-pages-about-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/about.js",
+      "id": "SitePage /about/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "cba4f4649af5fc992dd73299c67f54eb",
+        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /consoles/": {
+      "jsonName": "consoles-b93",
+      "internalComponentName": "ComponentConsoles",
+      "path": "/consoles/",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/consoles.js",
+      "componentChunkName": "component---src-pages-consoles-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/consoles.js",
+      "id": "SitePage /consoles/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e8be633642988b1ef2ad947f3a924ee7",
+        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /contact/": {
+      "jsonName": "contact-26a",
+      "internalComponentName": "ComponentContact",
+      "path": "/contact/",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/contact.js",
+      "componentChunkName": "component---src-pages-contact-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/contact.js",
+      "id": "SitePage /contact/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "68c974e1201335065699091cfc3dde1a",
+        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /grenelle/": {
+      "jsonName": "grenelle-1c8",
+      "internalComponentName": "ComponentGrenelle",
+      "path": "/grenelle/",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/grenelle.js",
+      "componentChunkName": "component---src-pages-grenelle-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/grenelle.js",
+      "id": "SitePage /grenelle/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "57629036c1f77612f6a7cd8e50662df3",
+        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/index.js",
+      "componentChunkName": "component---src-pages-index-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/index.js",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "da98d04b4afb487fba75af19cdebf13a",
+        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /photos/": {
+      "jsonName": "photos-a58",
+      "internalComponentName": "ComponentPhotos",
+      "path": "/photos/",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js",
+      "componentChunkName": "component---src-pages-photos-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js",
+      "id": "SitePage /photos/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4d9798ca7c272df3ce599c1ff81163c2",
+        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /sydney/": {
+      "jsonName": "sydney-d1e",
+      "internalComponentName": "ComponentSydney",
+      "path": "/sydney/",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/sydney.js",
+      "componentChunkName": "component---src-pages-sydney-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/sydney.js",
+      "id": "SitePage /sydney/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b823eaa012e04a53b6a99771a9746986",
+        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /404.html": {
+      "jsonName": "404-html-516",
+      "internalComponentName": "Component404Html",
+      "path": "/404.html",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
+      "componentChunkName": "component---src-pages-404-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "pluginCreatorId": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
+      "id": "SitePage /404.html",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "0fa69ba2dee745c5539c01568c7ffbfa",
+        "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+        "owner": "internal-data-bridge"
+      }
     }
   },
   "status": {
     "plugins": {
       "gatsby-source-contentful": {
-        "om13iw9p64w7-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybDv8OEf8K9CMKlLsKBe8OhCV4dwpAIw4_CgsOiHcK3PSHCkMOyADIEw7vCisOrUBtcM1PDimbDkjALN8OGCzDDl8Ksw7gmUsK3KsKHwoV8wp0hbcKbaMOcw7wrf8O8"
+        "om13iw9p64w7-master-cdn.contentful.com": "w5ZGw6JFwqZmVcKsE8Kow4grw45QdybCrT8qIm1Vwpowwogib8O8w5w7w4HCgsOaw6Qpwo1xwp7CpcK1IQfDpMONwpHDm1IlfTLDrGfDsMKDOMOzw65PIgE6VMK6MHwdw4_DkVIhwpTDiQovZFrDkCjCmUg"
       }
     },
     "PLUGINS_HASH": "94497cd6addbc9bdf84dfd0d6903adf4"
@@ -3329,11 +3536,23 @@
       ],
       "46727ad1-e48f-5e11-ada5-d726255ca9da": [
         "/photos/"
+      ],
+      "f292b187-eea5-53ea-b5d0-ecffc5f9d05e": [
+        "/consoles/"
+      ],
+      "0176345c-6e0e-53df-ae03-910ce1dd37bc": [
+        "/grenelle/"
       ]
     },
     "connections": {
       "ContentfulPhoto": [
         "/sydney/"
+      ],
+      "ContentfulConsoles": [
+        "/consoles/"
+      ],
+      "ContentfulGrenelle": [
+        "/grenelle/"
       ]
     }
   },
@@ -3348,7 +3567,9 @@
     "about-f34": "661/path---about-f-34-4c2-G0OyvRyaEBn5qMxbt19pnkVugeI",
     "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "contact-26a": "279/path---contact-26-a-cd9-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "sydney-d1e": "784/path---sydney-d-1-e-8a6-LTJzKr5i52Gb8wioG9Uo6IYG0c"
+    "sydney-d1e": "784/path---sydney-d-1-e-8a6-LTJzKr5i52Gb8wioG9Uo6IYG0c",
+    "consoles-b93": "451/path---consoles-b-93-899-eeH51Ht6LpuIHpVzQzEG4VRLdos",
+    "grenelle-1c8": "935/path---grenelle-1-c-8-a48-3OwnynG220kWf10PpmA9tZBezs"
   },
   "components": {
     "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js": {
@@ -3405,6 +3626,22 @@
       "query": "query usersPierreraffalliDesktopReactRefactoSitePhotoSrcPagesSydneyJs3333263837 {\n  photos: allContentfulPhoto {\n    edges {\n      node {\n        id\n        title\n        image {\n          fluid(maxWidth: 1080) {\n            ...GatsbyContentfulFluid\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyContentfulFluid on ContentfulFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "pages": [
         "/sydney/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/consoles.js": {
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/consoles.js",
+      "query": "query usersPierreraffalliDesktopReactRefactoSitePhotoSrcPagesConsolesJs3781419529 {\n  consoles: allContentfulConsoles {\n    edges {\n      node {\n        id\n        title\n        image {\n          fluid(maxWidth: 1080) {\n            ...GatsbyContentfulFluid\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyContentfulFluid on ContentfulFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "pages": [
+        "/consoles/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/grenelle.js": {
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/grenelle.js",
+      "query": "query usersPierreraffalliDesktopReactRefactoSitePhotoSrcPagesGrenelleJs3184856782 {\n  grenelle: allContentfulGrenelle {\n    edges {\n      node {\n        id\n        title\n        image {\n          fluid(maxWidth: 1080) {\n            ...GatsbyContentfulFluid\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyContentfulFluid on ContentfulFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "pages": [
+        "/grenelle/"
       ],
       "isInBootstrap": false
     }

@@ -20,6 +20,11 @@
         "path": "/about/"
     },
     {
+        "componentChunkName": "component---src-pages-consoles-js",
+        "jsonName": "consoles-b93",
+        "path": "/consoles/"
+    },
+    {
         "componentChunkName": "component---src-pages-contact-js",
         "jsonName": "contact-26a",
         "path": "/contact/"
@@ -28,6 +33,11 @@
         "componentChunkName": "component---cache-dev-404-page-js",
         "jsonName": "dev-404-page-5f9",
         "path": "/dev-404-page/"
+    },
+    {
+        "componentChunkName": "component---src-pages-grenelle-js",
+        "jsonName": "grenelle-1c8",
+        "path": "/grenelle/"
     },
     {
         "componentChunkName": "component---src-pages-photos-js",
