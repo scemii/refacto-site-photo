@@ -2,10 +2,12 @@ import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/layout";
 import Img from "gatsby-image";
+import SEO from "../components/seo"
 
 
 const photos = ({data}) => (
     <Layout>
+     <SEO title="photos" />
     <p></p>
       <div className="row">
         <div className="card text-white bg-dark mb-3" style={{width: "18rem"}}>
