@@ -33,5 +33,10 @@
         "componentChunkName": "component---src-pages-photos-js",
         "jsonName": "photos-a58",
         "path": "/photos/"
+    },
+    {
+        "componentChunkName": "component---src-pages-sydney-js",
+        "jsonName": "sydney-d1e",
+        "path": "/sydney/"
     }
 ]

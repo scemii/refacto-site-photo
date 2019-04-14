@@ -23,6 +23,20 @@ default-background {
   font-family: Verdana, Geneva, Tahoma, sans-serif !important;
 }
 
+.row{
+  align-content:center;
+  margin: auto;
+  display: flex;
+  width: 100%;
+}
+
+.card {
+  align-content:center;
+  margin: auto;
+  display: flex;
+  width: 100%;
+}
+
 article,
 aside,
 details,

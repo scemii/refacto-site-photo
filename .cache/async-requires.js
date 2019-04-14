@@ -7,7 +7,8 @@ exports.components = {
   "component---src-pages-about-js": () => import("/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/about.js" /* webpackChunkName: "component---src-pages-about-js" */),
   "component---src-pages-contact-js": () => import("/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/contact.js" /* webpackChunkName: "component---src-pages-contact-js" */),
   "component---src-pages-index-js": () => import("/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
-  "component---src-pages-photos-js": () => import("/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js" /* webpackChunkName: "component---src-pages-photos-js" */)
+  "component---src-pages-photos-js": () => import("/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js" /* webpackChunkName: "component---src-pages-photos-js" */),
+  "component---src-pages-sydney-js": () => import("/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/sydney.js" /* webpackChunkName: "component---src-pages-sydney-js" */)
 }
 
 exports.data = () => import(/* webpackChunkName: "pages-manifest" */ "/Users/pierreraffalli/Desktop/react/refacto site photo/.cache/data.json")

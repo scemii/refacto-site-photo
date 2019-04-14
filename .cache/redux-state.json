@@ -1098,12 +1098,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2019-04-12T23:52:33.389Z",
+      "buildTime": "2019-04-14T19:24:46.808Z",
       "id": "Site",
       "parent": null,
       "children": [],
       "internal": {
-        "contentDigest": "b9d547e13901614414cf9fb55d749e89",
+        "contentDigest": "b6afb86efc5567857b48cf99605012ca",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -1113,7 +1113,7 @@
       "children": [],
       "parent": null,
       "internal": {
-        "contentDigest": "87b161ac4779c11e67998cbfe15e80fb",
+        "contentDigest": "389473bbbf5609ea2072f248cc434f9a",
         "type": "Directory",
         "description": "Directory \"src/images\"",
         "owner": "gatsby-source-filesystem"
@@ -1125,7 +1125,7 @@
       "size": 256,
       "prettySize": "256 B",
       "modifiedTime": "2019-04-09T23:06:45.175Z",
-      "accessTime": "2019-04-12T23:52:35.929Z",
+      "accessTime": "2019-04-14T19:24:51.227Z",
       "changeTime": "2019-04-09T23:06:45.175Z",
       "birthTime": "2019-04-01T21:02:12.803Z",
       "root": "/",
@@ -1143,11 +1143,11 @@
       "blksize": 4194304,
       "ino": 8591680890,
       "blocks": 0,
-      "atimeMs": 1555113155929.4365,
+      "atimeMs": 1555269891227.4504,
       "mtimeMs": 1554851205174.624,
       "ctimeMs": 1554851205174.624,
       "birthtimeMs": 1554152532803.0786,
-      "atime": "2019-04-12T23:52:35.929Z",
+      "atime": "2019-04-14T19:24:51.227Z",
       "mtime": "2019-04-09T23:06:45.175Z",
       "ctime": "2019-04-09T23:06:45.175Z",
       "birthtime": "2019-04-01T21:02:12.803Z"
@@ -2934,6 +2934,255 @@
         "description": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
         "owner": "internal-data-bridge"
       }
+    },
+    "SitePage /sydney/": {
+      "jsonName": "sydney-d1e",
+      "internalComponentName": "ComponentSydney",
+      "path": "/sydney/",
+      "component": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/sydney.js",
+      "componentChunkName": "component---src-pages-sydney-js",
+      "isCreatedByStatefulCreatePages": true,
+      "context": {},
+      "pluginCreator___NODE": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "pluginCreatorId": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/sydney.js",
+      "id": "SitePage /sydney/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "b823eaa012e04a53b6a99771a9746986",
+        "description": "d1af5c91-ee64-5853-8c66-3128ccd94462",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "e1e948a9-12c5-53e1-a6c4-77d5ea4ff6f8": {
+      "id": "e1e948a9-12c5-53e1-a6c4-77d5ea4ff6f8",
+      "children": [
+        "840665f3-eb25-57ed-b9b0-66a3f7b96a6e"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "846469886b23aacb6f44a88634f75cb2",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/n64.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images/n64.jpg",
+      "relativePath": "n64.jpg",
+      "extension": "jpg",
+      "size": 123786,
+      "prettySize": "124 kB",
+      "modifiedTime": "2019-04-14T20:15:58.873Z",
+      "accessTime": "2019-04-14T20:15:58.873Z",
+      "changeTime": "2019-04-14T20:15:58.874Z",
+      "birthTime": "2019-04-14T20:15:58.873Z",
+      "root": "/",
+      "dir": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images",
+      "base": "n64.jpg",
+      "ext": ".jpg",
+      "name": "n64",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591919845,
+      "blocks": 248,
+      "atimeMs": 1555272958872.7007,
+      "mtimeMs": 1555272958873.2197,
+      "ctimeMs": 1555272958873.561,
+      "birthtimeMs": 1555272958872.7007,
+      "atime": "2019-04-14T20:15:58.873Z",
+      "mtime": "2019-04-14T20:15:58.873Z",
+      "ctime": "2019-04-14T20:15:58.874Z",
+      "birthtime": "2019-04-14T20:15:58.873Z"
+    },
+    "cdb17f75-26b9-5c0a-80b4-fd88d3fb4548": {
+      "id": "cdb17f75-26b9-5c0a-80b4-fd88d3fb4548",
+      "children": [
+        "8611c506-3aa1-5c91-b657-9d2b89bade16"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "37d25f375569f208ddf0d4cbeb64c4c4",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/grenelle.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images/grenelle.jpg",
+      "relativePath": "grenelle.jpg",
+      "extension": "jpg",
+      "size": 147063,
+      "prettySize": "147 kB",
+      "modifiedTime": "2019-04-14T20:15:58.841Z",
+      "accessTime": "2019-04-14T20:15:58.837Z",
+      "changeTime": "2019-04-14T20:15:58.848Z",
+      "birthTime": "2019-04-14T20:15:58.837Z",
+      "root": "/",
+      "dir": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images",
+      "base": "grenelle.jpg",
+      "ext": ".jpg",
+      "name": "grenelle",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591919843,
+      "blocks": 288,
+      "atimeMs": 1555272958836.6233,
+      "mtimeMs": 1555272958841.028,
+      "ctimeMs": 1555272958848.3792,
+      "birthtimeMs": 1555272958836.6233,
+      "atime": "2019-04-14T20:15:58.837Z",
+      "mtime": "2019-04-14T20:15:58.841Z",
+      "ctime": "2019-04-14T20:15:58.848Z",
+      "birthtime": "2019-04-14T20:15:58.837Z"
+    },
+    "840665f3-eb25-57ed-b9b0-66a3f7b96a6e": {
+      "id": "840665f3-eb25-57ed-b9b0-66a3f7b96a6e",
+      "children": [],
+      "parent": "e1e948a9-12c5-53e1-a6c4-77d5ea4ff6f8",
+      "internal": {
+        "contentDigest": "846469886b23aacb6f44a88634f75cb2",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "8611c506-3aa1-5c91-b657-9d2b89bade16": {
+      "id": "8611c506-3aa1-5c91-b657-9d2b89bade16",
+      "children": [],
+      "parent": "cdb17f75-26b9-5c0a-80b4-fd88d3fb4548",
+      "internal": {
+        "contentDigest": "37d25f375569f208ddf0d4cbeb64c4c4",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "07e74015-00dd-576d-b409-27dcb698cf8d": {
+      "id": "07e74015-00dd-576d-b409-27dcb698cf8d",
+      "children": [
+        "4313c516-c77c-5538-a217-73c1772d27f7"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "01b1306204b26115f0fe5f9a934ba9ea",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/sydney.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images/sydney.jpg",
+      "relativePath": "sydney.jpg",
+      "extension": "jpg",
+      "size": 197544,
+      "prettySize": "198 kB",
+      "modifiedTime": "2019-04-14T20:15:58.854Z",
+      "accessTime": "2019-04-14T20:15:58.853Z",
+      "changeTime": "2019-04-14T20:15:58.855Z",
+      "birthTime": "2019-04-14T20:15:58.853Z",
+      "root": "/",
+      "dir": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images",
+      "base": "sydney.jpg",
+      "ext": ".jpg",
+      "name": "sydney",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591919844,
+      "blocks": 392,
+      "atimeMs": 1555272958853.4136,
+      "mtimeMs": 1555272958854.4456,
+      "ctimeMs": 1555272958854.7666,
+      "birthtimeMs": 1555272958853.4136,
+      "atime": "2019-04-14T20:15:58.853Z",
+      "mtime": "2019-04-14T20:15:58.854Z",
+      "ctime": "2019-04-14T20:15:58.855Z",
+      "birthtime": "2019-04-14T20:15:58.853Z"
+    },
+    "4313c516-c77c-5538-a217-73c1772d27f7": {
+      "id": "4313c516-c77c-5538-a217-73c1772d27f7",
+      "children": [],
+      "parent": "07e74015-00dd-576d-b409-27dcb698cf8d",
+      "internal": {
+        "contentDigest": "01b1306204b26115f0fe5f9a934ba9ea",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
+    },
+    "765bfd13-0919-5482-ae92-91ebbc4e5487": {
+      "id": "765bfd13-0919-5482-ae92-91ebbc4e5487",
+      "children": [
+        "46727ad1-e48f-5e11-ada5-d726255ca9da"
+      ],
+      "parent": null,
+      "internal": {
+        "contentDigest": "f8d05a11ae3ce8af3ee95af752f5f4e5",
+        "type": "File",
+        "mediaType": "image/jpeg",
+        "description": "File \"src/images/tour.jpg\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "images",
+      "absolutePath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images/tour.jpg",
+      "relativePath": "tour.jpg",
+      "extension": "jpg",
+      "size": 136819,
+      "prettySize": "137 kB",
+      "modifiedTime": "2019-04-14T20:17:31.634Z",
+      "accessTime": "2019-04-14T20:17:31.951Z",
+      "changeTime": "2019-04-14T20:17:31.634Z",
+      "birthTime": "2019-04-14T20:17:31.633Z",
+      "root": "/",
+      "dir": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/images",
+      "base": "tour.jpg",
+      "ext": ".jpg",
+      "name": "tour",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 8591919961,
+      "blocks": 272,
+      "atimeMs": 1555273051951.4487,
+      "mtimeMs": 1555273051633.6497,
+      "ctimeMs": 1555273051633.9587,
+      "birthtimeMs": 1555273051633.2068,
+      "atime": "2019-04-14T20:17:31.951Z",
+      "mtime": "2019-04-14T20:17:31.634Z",
+      "ctime": "2019-04-14T20:17:31.634Z",
+      "birthtime": "2019-04-14T20:17:31.633Z"
+    },
+    "46727ad1-e48f-5e11-ada5-d726255ca9da": {
+      "id": "46727ad1-e48f-5e11-ada5-d726255ca9da",
+      "children": [],
+      "parent": "765bfd13-0919-5482-ae92-91ebbc4e5487",
+      "internal": {
+        "contentDigest": "f8d05a11ae3ce8af3ee95af752f5f4e5",
+        "type": "ImageSharp",
+        "owner": "gatsby-transformer-sharp"
+      }
     }
   },
   "status": {
@@ -2969,102 +3218,122 @@
         "/"
       ],
       "fa3d3e9f-4310-578e-b820-162b34eaa8b9": [
-        "/photos/"
+        "/sydney/"
       ],
       "09c22e2b-a77f-5c06-bb16-687040421eeb": [
-        "/photos/"
+        "/sydney/"
       ],
       "aa583b1c-b8d0-5032-beff-27ddf63563fb": [
-        "/photos/"
+        "/sydney/"
       ],
       "3c2bc3cf-b15f-5525-8156-fb5bfcebcfee": [
-        "/photos/"
+        "/sydney/"
       ],
       "d1607f29-3002-5cb0-894b-89b931b5f9b6": [
-        "/photos/"
+        "/sydney/"
       ],
       "09bb22c9-f370-5638-b644-490f752dd5a9": [
-        "/photos/"
+        "/sydney/"
       ],
       "f0cfaf61-0b28-5da9-94c5-17ca1e1ae1cc": [
-        "/photos/"
+        "/sydney/"
       ],
       "ac772987-a7a8-54fd-957a-15392edb13b0": [
-        "/photos/"
+        "/sydney/"
       ],
       "57df41fc-5d6f-5e77-9c41-58a7c91535f6": [
-        "/photos/"
+        "/sydney/"
       ],
       "634b609a-f6dd-5e90-b061-0a9326428607": [
-        "/photos/"
+        "/sydney/"
       ],
       "cffd3b4b-5c70-51e8-9825-b3e2abf3cb20": [
-        "/photos/"
+        "/sydney/"
       ],
       "3dfdb210-2540-556c-8626-8f5b68a5871f": [
-        "/photos/"
+        "/sydney/"
       ],
       "9ee68657-ee25-53fa-8065-a409e61e6c7b": [
-        "/photos/"
+        "/sydney/"
       ],
       "806aa672-2fdd-5fa6-9482-c28162c3acbf": [
-        "/photos/"
+        "/sydney/"
       ],
       "434fc1bd-7e17-5cc2-8e4d-3396dbf4f5a0": [
-        "/photos/"
+        "/sydney/"
       ],
       "5d8c7d72-a41a-5716-9dbd-bc9c4ddfe454": [
-        "/photos/"
+        "/sydney/"
       ],
       "df5e424a-7af6-569d-a96e-24b2858ed76a": [
-        "/photos/"
+        "/sydney/"
       ],
       "18d94b6f-94fa-5570-b0ef-e3135f9b69af": [
-        "/photos/"
+        "/sydney/"
       ],
       "7e732fbc-bba8-5fab-ad73-bd614f43d09d": [
-        "/photos/"
+        "/sydney/"
       ],
       "4061ab07-0195-54b9-9e6e-012bf0fce764": [
-        "/photos/"
+        "/sydney/"
       ],
       "0a7cff17-243b-5b05-b80a-aa5940d24735": [
-        "/photos/"
+        "/sydney/"
       ],
       "ee804bf1-9aaa-5c51-ae3d-139a954613cf": [
-        "/photos/"
+        "/sydney/"
       ],
       "875a1be1-a627-517e-95df-cf7f23867d1f": [
-        "/photos/"
+        "/sydney/"
       ],
       "b1983358-dd2d-5213-8da2-e13cfe5795c4": [
-        "/photos/"
+        "/sydney/"
       ],
       "f4fbeefb-d7d2-5c0e-b5be-481bff0d861c": [
-        "/photos/"
+        "/sydney/"
       ],
       "07915c47-a22f-5546-b0d1-1356f0626e59": [
-        "/photos/"
+        "/sydney/"
       ],
       "6f69dc86-f644-5576-9704-f200fee8eb99": [
-        "/photos/"
+        "/sydney/"
       ],
       "6f36a34a-b9e0-59b1-be5e-b04c613f3eb7": [
-        "/photos/"
+        "/sydney/"
       ],
       "15b97deb-d3da-5ef0-bec2-7e6c0616800a": [
-        "/photos/"
+        "/sydney/"
       ],
       "a8840c6b-915f-5fb1-b378-fdb6b853e7a7": [
-        "/photos/"
+        "/sydney/"
       ],
       "e02ab018-b7a0-5a9b-bf56-b6ba1188c253": [
+        "/sydney/"
+      ],
+      "07e74015-00dd-576d-b409-27dcb698cf8d": [
+        "/photos/"
+      ],
+      "4313c516-c77c-5538-a217-73c1772d27f7": [
+        "/photos/"
+      ],
+      "cdb17f75-26b9-5c0a-80b4-fd88d3fb4548": [],
+      "8611c506-3aa1-5c91-b657-9d2b89bade16": [],
+      "e1e948a9-12c5-53e1-a6c4-77d5ea4ff6f8": [
+        "/photos/"
+      ],
+      "840665f3-eb25-57ed-b9b0-66a3f7b96a6e": [
+        "/photos/"
+      ],
+      "765bfd13-0919-5482-ae92-91ebbc4e5487": [
+        "/photos/"
+      ],
+      "46727ad1-e48f-5e11-ada5-d726255ca9da": [
         "/photos/"
       ]
     },
     "connections": {
       "ContentfulPhoto": [
-        "/photos/"
+        "/sydney/"
       ]
     }
   },
@@ -3072,23 +3341,16 @@
     "404-22d": "820/path---404-22-d-bce-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "sq--src-components-layout-js": 755544856,
     "sq--src-components-seo-js": 2417117884,
-    "photos-a58": "110/path---photos-a-58-0c4-LTJzKr5i52Gb8wioG9Uo6IYG0c",
+    "photos-a58": "879/path---photos-a-58-0c4-SmUDbYnBr0wI9h1FDRb9kTifi4",
     "404-html-516": "285/path---404-html-516-62a-0SUcWyAf8ecbYDsMhQkEfPzV8",
     "sq--src-components-image-js": 628580114,
     "index": "574/path---index-6a9-3L7HecwyrDNsH8dZwAX1QbwKkg",
     "about-f34": "661/path---about-f-34-4c2-G0OyvRyaEBn5qMxbt19pnkVugeI",
     "dev-404-page-5f9": "386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",
-    "contact-26a": "279/path---contact-26-a-cd9-0SUcWyAf8ecbYDsMhQkEfPzV8"
+    "contact-26a": "279/path---contact-26-a-cd9-0SUcWyAf8ecbYDsMhQkEfPzV8",
+    "sydney-d1e": "784/path---sydney-d-1-e-8a6-LTJzKr5i52Gb8wioG9Uo6IYG0c"
   },
   "components": {
-    "/Users/pierreraffalli/Desktop/react/refacto site photo/.cache/dev-404-page.js": {
-      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/.cache/dev-404-page.js",
-      "query": "",
-      "pages": [
-        "/dev-404-page/"
-      ],
-      "isInBootstrap": false
-    },
     "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js": {
       "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/404.js",
       "query": "",
@@ -3124,9 +3386,25 @@
     },
     "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js": {
       "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/photos.js",
-      "query": "query usersPierreraffalliDesktopReactRefactoSitePhotoSrcPagesPhotosJs3333263837 {\n  photos: allContentfulPhoto {\n    edges {\n      node {\n        id\n        title\n        image {\n          fluid(maxWidth: 1080) {\n            ...GatsbyContentfulFluid\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyContentfulFluid on ContentfulFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "query": "query usersPierreraffalliDesktopReactRefactoSitePhotoSrcPagesPhotosJs518840097 {\n  placeholderImage: file(relativePath: {eq: \"sydney.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 1080) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n  placeholderImage2: file(relativePath: {eq: \"tour.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 1080) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n  placeholderImage3: file(relativePath: {eq: \"n64.jpg\"}) {\n    childImageSharp {\n      fluid(maxWidth: 1080) {\n        ...GatsbyImageSharpFluid\n      }\n    }\n  }\n}\n\nfragment GatsbyImageSharpFluid on ImageSharpFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
       "pages": [
         "/photos/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/pierreraffalli/Desktop/react/refacto site photo/.cache/dev-404-page.js": {
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/.cache/dev-404-page.js",
+      "query": "",
+      "pages": [
+        "/dev-404-page/"
+      ],
+      "isInBootstrap": false
+    },
+    "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/sydney.js": {
+      "componentPath": "/Users/pierreraffalli/Desktop/react/refacto site photo/src/pages/sydney.js",
+      "query": "query usersPierreraffalliDesktopReactRefactoSitePhotoSrcPagesSydneyJs3333263837 {\n  photos: allContentfulPhoto {\n    edges {\n      node {\n        id\n        title\n        image {\n          fluid(maxWidth: 1080) {\n            ...GatsbyContentfulFluid\n          }\n        }\n      }\n    }\n  }\n}\n\nfragment GatsbyContentfulFluid on ContentfulFluid {\n  base64\n  aspectRatio\n  src\n  srcSet\n  sizes\n}\n",
+      "pages": [
+        "/sydney/"
       ],
       "isInBootstrap": false
     }
