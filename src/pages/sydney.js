@@ -10,8 +10,8 @@ export default function photos({ data }) {
       <Layout>
       <SEO title="Sydney" />
       <p></p>
-      <h1>My pictures...</h1>
-      {data.photos.edges.map(({node})=> {
+      <h1>Sydney - December - 2019</h1>
+      {data.sydney.edges.map(({node})=> {
         return (
             <div key={node.id} style={{padding:'1rem', margin:'1rem 0'}}>
             <Img fluid={node.image.fluid} />
@@ -25,7 +25,7 @@ export default function photos({ data }) {
 
 export const query = graphql`
 {
-  photos:allContentfulPhoto {
+  sydney:allContentfulSydney {
     edges {
       node {
         id

@@ -41,7 +41,7 @@ const Layout = ({ children }) => (
           <div className="container">
             <div className="row">
               <div className="col-10 mx-auto col-md-6 text-yellow text-center text-capitalize">
-           <h5>All rights reserved © {new Date().getFullYear()}</h5> 
+           <h5> © {new Date().getFullYear()}</h5> 
               </div>
             </div>
           </div>

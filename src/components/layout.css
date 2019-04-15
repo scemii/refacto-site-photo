@@ -18,6 +18,7 @@ default-background {
 .footer {
   background-color:#f8f9fa;  
   bottom: 0px;
+  height: 3rem;
   width: 100%;
   position: fixed;
   font-family: Verdana, Geneva, Tahoma, sans-serif !important;

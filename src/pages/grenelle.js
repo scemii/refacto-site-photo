@@ -11,7 +11,7 @@ export default function photos({ data }) {
       <Layout>
        <SEO title="Grenelle" />
       <p></p>
-      <h1>My pictures...</h1>
+      <h1>Grenelle - Paris - 15</h1>
       {data.grenelle.edges.map(({node})=> {
         return (
             <div key={node.id} style={{padding:'1rem', margin:'1rem 0'}}>

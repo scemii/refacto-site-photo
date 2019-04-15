@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 
 const photos = ({data}) => (
     <Layout>
-     <SEO title="photos" />
+     <SEO title="Photos Index" />
     <p></p>
       <div className="row">
         <div className="card text-white bg-dark mb-3" style={{width: "18rem"}}>
